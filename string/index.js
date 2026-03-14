@@ -47,4 +47,5 @@ console.log(paragraph.replaceAll("java","paythan"));
   console.log(emails.includes("@"));
   console.log(emails.startsWith("manit"));
   console.log(emails.endsWith(".com"));
+ 
   
